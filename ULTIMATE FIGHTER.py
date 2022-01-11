@@ -5,7 +5,7 @@ print('--------------------------------')
 print('WELCOME TO ULTIMATE FIGHTER!!!!!')
 print('--------------------------------')
 
-options = input('Press "1" for easy, Press "2" for medium and "3" for Champion difficulty. If you wish to view '\
+options = input('Press "1" for easy\nPress "2" for medium\nPress "3" for Champion. \nIf you wish to view '\
 'history of the past Champions type "4"\n')
 
 if options == "1":
